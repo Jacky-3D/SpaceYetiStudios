@@ -14,3 +14,5 @@ About Space Yeti Studios:
 
 Why aren't there any ads or cookies?
   Space Yeti Studios is dedicated to keeping your privacy yours. We also want to keep our services ad free and will never show third party ads in any of our  projects! (We will only advertise our other projects!)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3PP19L)
